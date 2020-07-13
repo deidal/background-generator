@@ -1,2 +1,2 @@
-# background-generator
-Select colors and generate a gradient background
+# gradient-generator
+Generate a background gradient
